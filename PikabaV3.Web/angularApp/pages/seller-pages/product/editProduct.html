@@ -1,0 +1,9 @@
+﻿<div ng-controller="editProductCtrl">
+    <h3>Update product</h3>
+    <form class="formCreatedProduct">
+        <input id="addTitleProduct" type="text" ng-model="product.Title" value="{{product.Title}}" /><br />
+        <input id="addPriceProduct" type="text" ng-model="product.Price" value="{{product.Price}}" /><br />
+        <textarea id="AddDescriptionProduct" rows="5" cols="30" ng-model="product.Description">{{product.Description}}</textarea><br />
+        <input id="buttonCreateProduct" type="submit" value="Save" ng-submit='updateProduct()' />
+    </form>
+</div>

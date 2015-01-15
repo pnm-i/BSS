@@ -1,0 +1,29 @@
+﻿<div ng-controller="loginCtrl">
+    <h3>login</h3>
+    <p id="loginUserNotFound"></p>
+    <form class="loginForm">
+        <span>Email</span>
+        <br />
+        <input id="loginEmail" type="text" data-ng-model="login.Email" /><br />
+        <span>Password</span>
+        <br />
+        <input id="loginPassword" type="password" data-ng-model="login.Password" /><br />
+        <p>
+            <input id="buttonLogin" type="submit" value="LogIn" ng-click='loginClick()' />
+        </p>
+    </form>
+
+    <form class="form-container">
+        <div class="form-title">
+            <h2>Sign in</h2>
+        </div>
+        <div class="form-title">Email</div>
+        <input class="form-field" type="text" name="firstname" /><br />
+        <div class="form-title">Password</div>
+        <input class="form-field" type="text" name="email" /><br />
+        <div class="submit-container">
+            <input class="submit-button" type="submit" value="Submit" />
+        </div>
+    </form>
+
+</div>

@@ -1,0 +1,33 @@
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\PikabaV3\PikabaV3.WebAPI\bin\PikabaV3.WebAPI.dll
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\PikabaV3\PikabaV3.WebAPI\bin\PikabaV3.WebAPI.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\PikabaV3\PikabaV3.WebAPI\bin\MongoDB.Bson.dll
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\PikabaV3\PikabaV3.WebAPI\bin\MongoDB.Driver.dll
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\PikabaV3\PikabaV3.WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\PikabaV3\PikabaV3.WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\PikabaV3\PikabaV3.WebAPI\bin\System.Web.Http.dll
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\PikabaV3\PikabaV3.WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\PikabaV3\PikabaV3.WebAPI\bin\MongoDB.Bson.xml
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\PikabaV3\PikabaV3.WebAPI\bin\MongoDB.Driver.xml
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\PikabaV3\PikabaV3.WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\PikabaV3\PikabaV3.WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\PikabaV3\PikabaV3.WebAPI\bin\System.Web.Http.xml
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\PikabaV3\PikabaV3.WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\PikabaV3\PikabaV3.WebAPI\obj\Debug\PikabaV3.WebAPI.dll
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\PikabaV3\PikabaV3.WebAPI\obj\Debug\PikabaV3.WebAPI.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\PikabaV3\PikabaV3.WebAPI\obj\Debug\PikabaV3.WebAPI.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\PikabaV3\PikabaV3.WebAPI\bin\PikabaV3.WebAPI.dll
+C:\Users\Ivan\Desktop\PikabaV3\PikabaV3.WebAPI\bin\PikabaV3.WebAPI.pdb
+C:\Users\Ivan\Desktop\PikabaV3\PikabaV3.WebAPI\bin\MongoDB.Bson.dll
+C:\Users\Ivan\Desktop\PikabaV3\PikabaV3.WebAPI\bin\MongoDB.Driver.dll
+C:\Users\Ivan\Desktop\PikabaV3\PikabaV3.WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\Ivan\Desktop\PikabaV3\PikabaV3.WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Ivan\Desktop\PikabaV3\PikabaV3.WebAPI\bin\System.Web.Http.dll
+C:\Users\Ivan\Desktop\PikabaV3\PikabaV3.WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Ivan\Desktop\PikabaV3\PikabaV3.WebAPI\bin\MongoDB.Bson.xml
+C:\Users\Ivan\Desktop\PikabaV3\PikabaV3.WebAPI\bin\MongoDB.Driver.xml
+C:\Users\Ivan\Desktop\PikabaV3\PikabaV3.WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\Ivan\Desktop\PikabaV3\PikabaV3.WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Ivan\Desktop\PikabaV3\PikabaV3.WebAPI\bin\System.Web.Http.xml
+C:\Users\Ivan\Desktop\PikabaV3\PikabaV3.WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Ivan\Desktop\PikabaV3\PikabaV3.WebAPI\obj\Debug\PikabaV3.WebAPI.dll
+C:\Users\Ivan\Desktop\PikabaV3\PikabaV3.WebAPI\obj\Debug\PikabaV3.WebAPI.pdb

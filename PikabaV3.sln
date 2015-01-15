@@ -1,0 +1,103 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PikabaV3.API", "PikabaV3.API\PikabaV3.API.csproj", "{E7BFA463-94E0-4926-92A7-86FEDCD93570}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PikabaV3.Web", "PikabaV3.Web\PikabaV3.Web.csproj", "{0AEB91FB-9450-49DD-A64E-DC4AE3B2974C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PikabaV3.NET", "PikabaV3.NET\PikabaV3.NET.csproj", "{C58B4E49-1CCB-4B17-B89C-0B7FFB99F247}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PikabaV3.Logic", "PikabaV3.Logic\PikabaV3.Logic.csproj", "{63C1B662-A1EE-44EA-B5BE-429419EF3BB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PikabaV3.Models", "PikabaV3.Models\PikabaV3.Models.csproj", "{1D245E12-3EA2-495E-BC5C-E178949972E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PikabaV3.MongoRepositories", "PikabaV3.MongoRepositories\PikabaV3.MongoRepositories.csproj", "{B1B8F757-221D-4A67-9805-FBB85E0D79BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PikabaV3.Logic.Tests", "PikabaV3.Logic.Tests\PikabaV3.Logic.Tests.csproj", "{C85A29AE-44E2-4E6A-B87A-B4261F32FC5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PikabaV3.API.Tests", "PikabaV3.API.Tests\PikabaV3.API.Tests.csproj", "{47581FE2-BBED-4CB1-A8C1-3ACA9BDC8664}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PikabaV3.MongoRepositories.Tests", "PikabaV3.MongoRepositories.Tests\PikabaV3.MongoRepositories.Tests.csproj", "{2C7AF83C-F568-4909-9A70-1C46D01388C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PikabaV3.GeneralProvider", "PikabaV3.GeneralProvider\PikabaV3.GeneralProvider.csproj", "{3F5DF829-3157-41DD-B429-EF741E9AD476}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "PikabaV3.WebJS", "http://localhost:55275", "{6705748A-090A-445D-BEF6-D84C53842D31}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_55275"
+		Debug.AspNetCompiler.PhysicalPath = "PikabaV3.WebJS\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55275\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_55275"
+		Release.AspNetCompiler.PhysicalPath = "PikabaV3.WebJS\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55275\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "PikabaV3.WebJS\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7BFA463-94E0-4926-92A7-86FEDCD93570}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7BFA463-94E0-4926-92A7-86FEDCD93570}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7BFA463-94E0-4926-92A7-86FEDCD93570}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7BFA463-94E0-4926-92A7-86FEDCD93570}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AEB91FB-9450-49DD-A64E-DC4AE3B2974C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AEB91FB-9450-49DD-A64E-DC4AE3B2974C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AEB91FB-9450-49DD-A64E-DC4AE3B2974C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AEB91FB-9450-49DD-A64E-DC4AE3B2974C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C58B4E49-1CCB-4B17-B89C-0B7FFB99F247}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C58B4E49-1CCB-4B17-B89C-0B7FFB99F247}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C58B4E49-1CCB-4B17-B89C-0B7FFB99F247}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C58B4E49-1CCB-4B17-B89C-0B7FFB99F247}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63C1B662-A1EE-44EA-B5BE-429419EF3BB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63C1B662-A1EE-44EA-B5BE-429419EF3BB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63C1B662-A1EE-44EA-B5BE-429419EF3BB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63C1B662-A1EE-44EA-B5BE-429419EF3BB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D245E12-3EA2-495E-BC5C-E178949972E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D245E12-3EA2-495E-BC5C-E178949972E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D245E12-3EA2-495E-BC5C-E178949972E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D245E12-3EA2-495E-BC5C-E178949972E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1B8F757-221D-4A67-9805-FBB85E0D79BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1B8F757-221D-4A67-9805-FBB85E0D79BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1B8F757-221D-4A67-9805-FBB85E0D79BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1B8F757-221D-4A67-9805-FBB85E0D79BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C85A29AE-44E2-4E6A-B87A-B4261F32FC5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C85A29AE-44E2-4E6A-B87A-B4261F32FC5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C85A29AE-44E2-4E6A-B87A-B4261F32FC5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C85A29AE-44E2-4E6A-B87A-B4261F32FC5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47581FE2-BBED-4CB1-A8C1-3ACA9BDC8664}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47581FE2-BBED-4CB1-A8C1-3ACA9BDC8664}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47581FE2-BBED-4CB1-A8C1-3ACA9BDC8664}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47581FE2-BBED-4CB1-A8C1-3ACA9BDC8664}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C7AF83C-F568-4909-9A70-1C46D01388C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C7AF83C-F568-4909-9A70-1C46D01388C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C7AF83C-F568-4909-9A70-1C46D01388C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C7AF83C-F568-4909-9A70-1C46D01388C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F5DF829-3157-41DD-B429-EF741E9AD476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F5DF829-3157-41DD-B429-EF741E9AD476}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F5DF829-3157-41DD-B429-EF741E9AD476}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F5DF829-3157-41DD-B429-EF741E9AD476}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6705748A-090A-445D-BEF6-D84C53842D31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6705748A-090A-445D-BEF6-D84C53842D31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6705748A-090A-445D-BEF6-D84C53842D31}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{6705748A-090A-445D-BEF6-D84C53842D31}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal

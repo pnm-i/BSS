@@ -1,0 +1,17 @@
+﻿<h3>All Products</h3>
+<div ng-controller="allProductsCtrl">
+    <div id="ProductContainer">
+        <div id="marginLinkDiv" ng-repeat="product in products">
+            <a id="divLink" href="#/products/{{product.Id}}">
+                <div id="viewProduct">
+                    <img src="Content/images/NoImage.jpg" width="70" height="60" />
+                    <span>Title: <span>{{product.Title}} </span></span>
+                    <br />
+                    <span>Price: <span>{{product.Price}} $</span></span><br />
+                    <span>Added: <span>{{product.DateAdded | date:'medium'}}</span></span>
+                </div>
+            </a>
+        </div>
+    </div>
+</div>
+

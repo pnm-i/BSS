@@ -1,0 +1,17 @@
+﻿<h3>Edit my acount</h3>
+<div ng-controller="editBuyerAccountCtrl">
+    <form class="editForm">
+        <br />
+        <span>
+            <input type="text" id="editDisplayName" ng-model="user.DisplayName" value="{{user.DisplayName}}" />
+            Name </span>
+        <br />
+        <span>
+            <input type="text" id="editEmail" ng-model="user.Email" value="{{user.Email}}" />
+            Email </span>
+        <br />
+        <p>
+            <input id="saveAccountBuyer" type="button" ng-submit="saveEditedAccount()" value="Save" />
+        </p>
+    </form>
+</div>

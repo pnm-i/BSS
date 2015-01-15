@@ -1,0 +1,9 @@
+﻿<div ng-controller="createProductCtrl">
+    <h3>Create product:</h3>
+    <form class="formCreatedProduct">
+        <input id="addTitleProduct" type="text" name="Title" placeholder="Title" data-ng-model="product.Title" /><br />
+        <input id="addPriceProduct" type="text" name="Price" placeholder="Price" data-ng-model="product.Price" /><br />
+        <textarea id="AddDescriptionProduct" placeholder="Description" rows="5" cols="30" data-ng-model="product.Description"></textarea><br />
+        <input id="buttonCreateProduct" type="submit" value="Create" ng-click='createProduct()' />
+    </form>
+</div>

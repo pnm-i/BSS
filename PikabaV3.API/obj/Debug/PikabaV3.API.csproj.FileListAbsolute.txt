@@ -1,0 +1,163 @@
+C:\Users\Ivan\Desktop\PikabaV3\PikabaV3.WebAPI\obj\Debug\PikabaV3.WebAPI.dll
+C:\Users\Ivan\Desktop\PikabaV3\PikabaV3.WebAPI\bin\PikabaV3.WebAPI.dll
+C:\Users\Ivan\Desktop\PikabaV3\PikabaV3.WebAPI\bin\PikabaV3.WebAPI.pdb
+C:\Users\Ivan\Desktop\PikabaV3\PikabaV3.WebAPI\bin\MongoDB.Bson.dll
+C:\Users\Ivan\Desktop\PikabaV3\PikabaV3.WebAPI\bin\MongoDB.Driver.dll
+C:\Users\Ivan\Desktop\PikabaV3\PikabaV3.WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\Ivan\Desktop\PikabaV3\PikabaV3.WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Ivan\Desktop\PikabaV3\PikabaV3.WebAPI\bin\System.Web.Http.dll
+C:\Users\Ivan\Desktop\PikabaV3\PikabaV3.WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Ivan\Desktop\PikabaV3\PikabaV3.WebAPI\bin\MongoDB.Bson.xml
+C:\Users\Ivan\Desktop\PikabaV3\PikabaV3.WebAPI\bin\MongoDB.Driver.xml
+C:\Users\Ivan\Desktop\PikabaV3\PikabaV3.WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\Ivan\Desktop\PikabaV3\PikabaV3.WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Ivan\Desktop\PikabaV3\PikabaV3.WebAPI\bin\System.Web.Http.xml
+C:\Users\Ivan\Desktop\PikabaV3\PikabaV3.WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Ivan\Desktop\PikabaV3\PikabaV3.WebAPI\obj\Debug\PikabaV3.WebAPI.pdb
+C:\Users\Ivan\Desktop\PikabaV3\PikabaV3.WebAPI\obj\Debug\PikabaV3.API.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\Новая папка\PikabaV3\PikabaV3.API\bin\PikabaV3.WebAPI.dll
+C:\Users\Ivan\Desktop\Новая папка\PikabaV3\PikabaV3.API\bin\PikabaV3.WebAPI.pdb
+C:\Users\Ivan\Desktop\Новая папка\PikabaV3\PikabaV3.API\bin\MongoDB.Bson.dll
+C:\Users\Ivan\Desktop\Новая папка\PikabaV3\PikabaV3.API\bin\MongoDB.Driver.dll
+C:\Users\Ivan\Desktop\Новая папка\PikabaV3\PikabaV3.API\bin\Newtonsoft.Json.dll
+C:\Users\Ivan\Desktop\Новая папка\PikabaV3\PikabaV3.API\bin\System.Net.Http.Formatting.dll
+C:\Users\Ivan\Desktop\Новая папка\PikabaV3\PikabaV3.API\bin\System.Web.Http.dll
+C:\Users\Ivan\Desktop\Новая папка\PikabaV3\PikabaV3.API\bin\System.Web.Http.WebHost.dll
+C:\Users\Ivan\Desktop\Новая папка\PikabaV3\PikabaV3.API\bin\MongoDB.Bson.xml
+C:\Users\Ivan\Desktop\Новая папка\PikabaV3\PikabaV3.API\bin\MongoDB.Driver.xml
+C:\Users\Ivan\Desktop\Новая папка\PikabaV3\PikabaV3.API\bin\Newtonsoft.Json.xml
+C:\Users\Ivan\Desktop\Новая папка\PikabaV3\PikabaV3.API\bin\System.Net.Http.Formatting.xml
+C:\Users\Ivan\Desktop\Новая папка\PikabaV3\PikabaV3.API\bin\System.Web.Http.xml
+C:\Users\Ivan\Desktop\Новая папка\PikabaV3\PikabaV3.API\bin\System.Web.Http.WebHost.xml
+C:\Users\Ivan\Desktop\Новая папка\PikabaV3\PikabaV3.API\obj\Debug\PikabaV3.API.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\Новая папка\PikabaV3\PikabaV3.API\obj\Debug\PikabaV3.WebAPI.dll
+C:\Users\Ivan\Desktop\Новая папка\PikabaV3\PikabaV3.API\obj\Debug\PikabaV3.WebAPI.pdb
+C:\Users\Ivan\Desktop\Pikaba\PikabaV3\PikabaV3.API\bin\PikabaV3.WebAPI.dll
+C:\Users\Ivan\Desktop\Pikaba\PikabaV3\PikabaV3.API\bin\PikabaV3.WebAPI.pdb
+C:\Users\Ivan\Desktop\Pikaba\PikabaV3\PikabaV3.API\bin\MongoDB.Bson.dll
+C:\Users\Ivan\Desktop\Pikaba\PikabaV3\PikabaV3.API\bin\MongoDB.Driver.dll
+C:\Users\Ivan\Desktop\Pikaba\PikabaV3\PikabaV3.API\bin\Newtonsoft.Json.dll
+C:\Users\Ivan\Desktop\Pikaba\PikabaV3\PikabaV3.API\bin\System.Net.Http.Formatting.dll
+C:\Users\Ivan\Desktop\Pikaba\PikabaV3\PikabaV3.API\bin\System.Web.Http.dll
+C:\Users\Ivan\Desktop\Pikaba\PikabaV3\PikabaV3.API\bin\System.Web.Http.WebHost.dll
+C:\Users\Ivan\Desktop\Pikaba\PikabaV3\PikabaV3.API\bin\MongoDB.Bson.xml
+C:\Users\Ivan\Desktop\Pikaba\PikabaV3\PikabaV3.API\bin\MongoDB.Driver.xml
+C:\Users\Ivan\Desktop\Pikaba\PikabaV3\PikabaV3.API\bin\Newtonsoft.Json.xml
+C:\Users\Ivan\Desktop\Pikaba\PikabaV3\PikabaV3.API\bin\System.Net.Http.Formatting.xml
+C:\Users\Ivan\Desktop\Pikaba\PikabaV3\PikabaV3.API\bin\System.Web.Http.xml
+C:\Users\Ivan\Desktop\Pikaba\PikabaV3\PikabaV3.API\bin\System.Web.Http.WebHost.xml
+C:\Users\Ivan\Desktop\Pikaba\PikabaV3\PikabaV3.API\obj\Debug\PikabaV3.API.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\Pikaba\PikabaV3\PikabaV3.API\obj\Debug\PikabaV3.WebAPI.dll
+C:\Users\Ivan\Desktop\Pikaba\PikabaV3\PikabaV3.API\obj\Debug\PikabaV3.WebAPI.pdb
+F:\Projects\TestTaskPikabaTeam\PikabaV3 curent\PikabaV3.API\bin\PikabaV3.WebAPI.dll
+F:\Projects\TestTaskPikabaTeam\PikabaV3 curent\PikabaV3.API\bin\PikabaV3.WebAPI.pdb
+F:\Projects\TestTaskPikabaTeam\PikabaV3 curent\PikabaV3.API\bin\MongoDB.Bson.dll
+F:\Projects\TestTaskPikabaTeam\PikabaV3 curent\PikabaV3.API\bin\Newtonsoft.Json.dll
+F:\Projects\TestTaskPikabaTeam\PikabaV3 curent\PikabaV3.API\bin\PikabaV3.GeneralProvider.dll
+F:\Projects\TestTaskPikabaTeam\PikabaV3 curent\PikabaV3.API\bin\PikabaV3.Logic.dll
+F:\Projects\TestTaskPikabaTeam\PikabaV3 curent\PikabaV3.API\bin\PikabaV3.Models.dll
+F:\Projects\TestTaskPikabaTeam\PikabaV3 curent\PikabaV3.API\bin\PikabaV3.MongoRepositories.dll
+F:\Projects\TestTaskPikabaTeam\PikabaV3 curent\PikabaV3.API\bin\System.Net.Http.Formatting.dll
+F:\Projects\TestTaskPikabaTeam\PikabaV3 curent\PikabaV3.API\bin\System.Web.Http.dll
+F:\Projects\TestTaskPikabaTeam\PikabaV3 curent\PikabaV3.API\bin\System.Web.Http.WebHost.dll
+F:\Projects\TestTaskPikabaTeam\PikabaV3 curent\PikabaV3.API\bin\MongoDB.Driver.dll
+F:\Projects\TestTaskPikabaTeam\PikabaV3 curent\PikabaV3.API\bin\PikabaV3.GeneralProvider.pdb
+F:\Projects\TestTaskPikabaTeam\PikabaV3 curent\PikabaV3.API\bin\PikabaV3.Logic.pdb
+F:\Projects\TestTaskPikabaTeam\PikabaV3 curent\PikabaV3.API\bin\PikabaV3.Models.pdb
+F:\Projects\TestTaskPikabaTeam\PikabaV3 curent\PikabaV3.API\bin\PikabaV3.MongoRepositories.pdb
+F:\Projects\TestTaskPikabaTeam\PikabaV3 curent\PikabaV3.API\bin\MongoDB.Bson.xml
+F:\Projects\TestTaskPikabaTeam\PikabaV3 curent\PikabaV3.API\bin\Newtonsoft.Json.xml
+F:\Projects\TestTaskPikabaTeam\PikabaV3 curent\PikabaV3.API\bin\System.Net.Http.Formatting.xml
+F:\Projects\TestTaskPikabaTeam\PikabaV3 curent\PikabaV3.API\bin\System.Web.Http.xml
+F:\Projects\TestTaskPikabaTeam\PikabaV3 curent\PikabaV3.API\bin\System.Web.Http.WebHost.xml
+F:\Projects\TestTaskPikabaTeam\PikabaV3 curent\PikabaV3.API\bin\MongoDB.Driver.xml
+F:\Projects\TestTaskPikabaTeam\PikabaV3 curent\PikabaV3.API\obj\Debug\PikabaV3.API.csprojResolveAssemblyReference.cache
+F:\Projects\TestTaskPikabaTeam\PikabaV3 curent\PikabaV3.API\obj\Debug\PikabaV3.WebAPI.dll
+F:\Projects\TestTaskPikabaTeam\PikabaV3 curent\PikabaV3.API\obj\Debug\PikabaV3.WebAPI.pdb
+F:\Development\Projects\TestTaskPikabaTeam\PikabaV3 curent\PikabaV3.API\bin\PikabaV3.WebAPI.dll
+F:\Development\Projects\TestTaskPikabaTeam\PikabaV3 curent\PikabaV3.API\bin\PikabaV3.WebAPI.pdb
+F:\Development\Projects\TestTaskPikabaTeam\PikabaV3 curent\PikabaV3.API\bin\Autofac.dll
+F:\Development\Projects\TestTaskPikabaTeam\PikabaV3 curent\PikabaV3.API\bin\Autofac.Integration.WebApi.dll
+F:\Development\Projects\TestTaskPikabaTeam\PikabaV3 curent\PikabaV3.API\bin\MongoDB.Bson.dll
+F:\Development\Projects\TestTaskPikabaTeam\PikabaV3 curent\PikabaV3.API\bin\Newtonsoft.Json.dll
+F:\Development\Projects\TestTaskPikabaTeam\PikabaV3 curent\PikabaV3.API\bin\PikabaV3.GeneralProvider.dll
+F:\Development\Projects\TestTaskPikabaTeam\PikabaV3 curent\PikabaV3.API\bin\PikabaV3.Logic.dll
+F:\Development\Projects\TestTaskPikabaTeam\PikabaV3 curent\PikabaV3.API\bin\PikabaV3.Models.dll
+F:\Development\Projects\TestTaskPikabaTeam\PikabaV3 curent\PikabaV3.API\bin\PikabaV3.MongoRepositories.dll
+F:\Development\Projects\TestTaskPikabaTeam\PikabaV3 curent\PikabaV3.API\bin\System.Net.Http.Formatting.dll
+F:\Development\Projects\TestTaskPikabaTeam\PikabaV3 curent\PikabaV3.API\bin\System.Web.Http.dll
+F:\Development\Projects\TestTaskPikabaTeam\PikabaV3 curent\PikabaV3.API\bin\System.Web.Http.WebHost.dll
+F:\Development\Projects\TestTaskPikabaTeam\PikabaV3 curent\PikabaV3.API\bin\MongoDB.Driver.dll
+F:\Development\Projects\TestTaskPikabaTeam\PikabaV3 curent\PikabaV3.API\bin\PikabaV3.GeneralProvider.pdb
+F:\Development\Projects\TestTaskPikabaTeam\PikabaV3 curent\PikabaV3.API\bin\PikabaV3.Logic.pdb
+F:\Development\Projects\TestTaskPikabaTeam\PikabaV3 curent\PikabaV3.API\bin\PikabaV3.Models.pdb
+F:\Development\Projects\TestTaskPikabaTeam\PikabaV3 curent\PikabaV3.API\bin\PikabaV3.MongoRepositories.pdb
+F:\Development\Projects\TestTaskPikabaTeam\PikabaV3 curent\PikabaV3.API\bin\Autofac.xml
+F:\Development\Projects\TestTaskPikabaTeam\PikabaV3 curent\PikabaV3.API\bin\Autofac.Integration.WebApi.xml
+F:\Development\Projects\TestTaskPikabaTeam\PikabaV3 curent\PikabaV3.API\bin\MongoDB.Bson.xml
+F:\Development\Projects\TestTaskPikabaTeam\PikabaV3 curent\PikabaV3.API\bin\Newtonsoft.Json.xml
+F:\Development\Projects\TestTaskPikabaTeam\PikabaV3 curent\PikabaV3.API\bin\System.Net.Http.Formatting.xml
+F:\Development\Projects\TestTaskPikabaTeam\PikabaV3 curent\PikabaV3.API\bin\System.Web.Http.xml
+F:\Development\Projects\TestTaskPikabaTeam\PikabaV3 curent\PikabaV3.API\bin\System.Web.Http.WebHost.xml
+F:\Development\Projects\TestTaskPikabaTeam\PikabaV3 curent\PikabaV3.API\bin\MongoDB.Driver.xml
+F:\Development\Projects\TestTaskPikabaTeam\PikabaV3 curent\PikabaV3.API\obj\Debug\PikabaV3.API.csprojResolveAssemblyReference.cache
+F:\Development\Projects\TestTaskPikabaTeam\PikabaV3 curent\PikabaV3.API\obj\Debug\PikabaV3.WebAPI.dll
+F:\Development\Projects\TestTaskPikabaTeam\PikabaV3 curent\PikabaV3.API\obj\Debug\PikabaV3.WebAPI.pdb
+C:\Users\ponomarenko.i\Dropbox\PikabaV3 curent\PikabaV3.API\bin\PikabaV3.WebAPI.dll
+C:\Users\ponomarenko.i\Dropbox\PikabaV3 curent\PikabaV3.API\bin\PikabaV3.WebAPI.pdb
+C:\Users\ponomarenko.i\Dropbox\PikabaV3 curent\PikabaV3.API\bin\Autofac.dll
+C:\Users\ponomarenko.i\Dropbox\PikabaV3 curent\PikabaV3.API\bin\Autofac.Integration.WebApi.dll
+C:\Users\ponomarenko.i\Dropbox\PikabaV3 curent\PikabaV3.API\bin\MongoDB.Bson.dll
+C:\Users\ponomarenko.i\Dropbox\PikabaV3 curent\PikabaV3.API\bin\Newtonsoft.Json.dll
+C:\Users\ponomarenko.i\Dropbox\PikabaV3 curent\PikabaV3.API\bin\PikabaV3.GeneralProvider.dll
+C:\Users\ponomarenko.i\Dropbox\PikabaV3 curent\PikabaV3.API\bin\PikabaV3.Logic.dll
+C:\Users\ponomarenko.i\Dropbox\PikabaV3 curent\PikabaV3.API\bin\PikabaV3.Models.dll
+C:\Users\ponomarenko.i\Dropbox\PikabaV3 curent\PikabaV3.API\bin\PikabaV3.MongoRepositories.dll
+C:\Users\ponomarenko.i\Dropbox\PikabaV3 curent\PikabaV3.API\bin\System.Net.Http.Formatting.dll
+C:\Users\ponomarenko.i\Dropbox\PikabaV3 curent\PikabaV3.API\bin\System.Web.Http.dll
+C:\Users\ponomarenko.i\Dropbox\PikabaV3 curent\PikabaV3.API\bin\System.Web.Http.WebHost.dll
+C:\Users\ponomarenko.i\Dropbox\PikabaV3 curent\PikabaV3.API\bin\MongoDB.Driver.dll
+C:\Users\ponomarenko.i\Dropbox\PikabaV3 curent\PikabaV3.API\bin\PikabaV3.GeneralProvider.pdb
+C:\Users\ponomarenko.i\Dropbox\PikabaV3 curent\PikabaV3.API\bin\PikabaV3.Logic.pdb
+C:\Users\ponomarenko.i\Dropbox\PikabaV3 curent\PikabaV3.API\bin\PikabaV3.Models.pdb
+C:\Users\ponomarenko.i\Dropbox\PikabaV3 curent\PikabaV3.API\bin\PikabaV3.MongoRepositories.pdb
+C:\Users\ponomarenko.i\Dropbox\PikabaV3 curent\PikabaV3.API\bin\Autofac.xml
+C:\Users\ponomarenko.i\Dropbox\PikabaV3 curent\PikabaV3.API\bin\Autofac.Integration.WebApi.xml
+C:\Users\ponomarenko.i\Dropbox\PikabaV3 curent\PikabaV3.API\bin\MongoDB.Bson.xml
+C:\Users\ponomarenko.i\Dropbox\PikabaV3 curent\PikabaV3.API\bin\Newtonsoft.Json.xml
+C:\Users\ponomarenko.i\Dropbox\PikabaV3 curent\PikabaV3.API\bin\System.Net.Http.Formatting.xml
+C:\Users\ponomarenko.i\Dropbox\PikabaV3 curent\PikabaV3.API\bin\System.Web.Http.xml
+C:\Users\ponomarenko.i\Dropbox\PikabaV3 curent\PikabaV3.API\bin\System.Web.Http.WebHost.xml
+C:\Users\ponomarenko.i\Dropbox\PikabaV3 curent\PikabaV3.API\bin\MongoDB.Driver.xml
+C:\Users\ponomarenko.i\Dropbox\PikabaV3 curent\PikabaV3.API\obj\Debug\PikabaV3.API.csprojResolveAssemblyReference.cache
+C:\Users\ponomarenko.i\Dropbox\PikabaV3 curent\PikabaV3.API\obj\Debug\PikabaV3.WebAPI.dll
+C:\Users\ponomarenko.i\Dropbox\PikabaV3 curent\PikabaV3.API\obj\Debug\PikabaV3.WebAPI.pdb
+C:\Users\Ivan\Dropbox\PikabaV3 curent\PikabaV3.API\bin\PikabaV3.WebAPI.dll
+C:\Users\Ivan\Dropbox\PikabaV3 curent\PikabaV3.API\bin\PikabaV3.WebAPI.pdb
+C:\Users\Ivan\Dropbox\PikabaV3 curent\PikabaV3.API\bin\Autofac.dll
+C:\Users\Ivan\Dropbox\PikabaV3 curent\PikabaV3.API\bin\Autofac.Integration.WebApi.dll
+C:\Users\Ivan\Dropbox\PikabaV3 curent\PikabaV3.API\bin\MongoDB.Bson.dll
+C:\Users\Ivan\Dropbox\PikabaV3 curent\PikabaV3.API\bin\Newtonsoft.Json.dll
+C:\Users\Ivan\Dropbox\PikabaV3 curent\PikabaV3.API\bin\PikabaV3.GeneralProvider.dll
+C:\Users\Ivan\Dropbox\PikabaV3 curent\PikabaV3.API\bin\PikabaV3.Logic.dll
+C:\Users\Ivan\Dropbox\PikabaV3 curent\PikabaV3.API\bin\PikabaV3.Models.dll
+C:\Users\Ivan\Dropbox\PikabaV3 curent\PikabaV3.API\bin\PikabaV3.MongoRepositories.dll
+C:\Users\Ivan\Dropbox\PikabaV3 curent\PikabaV3.API\bin\System.Net.Http.Formatting.dll
+C:\Users\Ivan\Dropbox\PikabaV3 curent\PikabaV3.API\bin\System.Web.Http.dll
+C:\Users\Ivan\Dropbox\PikabaV3 curent\PikabaV3.API\bin\System.Web.Http.WebHost.dll
+C:\Users\Ivan\Dropbox\PikabaV3 curent\PikabaV3.API\bin\MongoDB.Driver.dll
+C:\Users\Ivan\Dropbox\PikabaV3 curent\PikabaV3.API\bin\PikabaV3.GeneralProvider.pdb
+C:\Users\Ivan\Dropbox\PikabaV3 curent\PikabaV3.API\bin\PikabaV3.Logic.pdb
+C:\Users\Ivan\Dropbox\PikabaV3 curent\PikabaV3.API\bin\PikabaV3.Models.pdb
+C:\Users\Ivan\Dropbox\PikabaV3 curent\PikabaV3.API\bin\PikabaV3.MongoRepositories.pdb
+C:\Users\Ivan\Dropbox\PikabaV3 curent\PikabaV3.API\bin\Autofac.xml
+C:\Users\Ivan\Dropbox\PikabaV3 curent\PikabaV3.API\bin\Autofac.Integration.WebApi.xml
+C:\Users\Ivan\Dropbox\PikabaV3 curent\PikabaV3.API\bin\MongoDB.Bson.xml
+C:\Users\Ivan\Dropbox\PikabaV3 curent\PikabaV3.API\bin\Newtonsoft.Json.xml
+C:\Users\Ivan\Dropbox\PikabaV3 curent\PikabaV3.API\bin\System.Net.Http.Formatting.xml
+C:\Users\Ivan\Dropbox\PikabaV3 curent\PikabaV3.API\bin\System.Web.Http.xml
+C:\Users\Ivan\Dropbox\PikabaV3 curent\PikabaV3.API\bin\System.Web.Http.WebHost.xml
+C:\Users\Ivan\Dropbox\PikabaV3 curent\PikabaV3.API\bin\MongoDB.Driver.xml
+C:\Users\Ivan\Dropbox\PikabaV3 curent\PikabaV3.API\obj\Debug\PikabaV3.API.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Dropbox\PikabaV3 curent\PikabaV3.API\obj\Debug\PikabaV3.WebAPI.dll
+C:\Users\Ivan\Dropbox\PikabaV3 curent\PikabaV3.API\obj\Debug\PikabaV3.WebAPI.pdb

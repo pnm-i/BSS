@@ -1,0 +1,18 @@
+﻿<div ng-controller="buyerAccountCtrl">
+    <h3>My profile</h3>
+    <span><b>Display name: </b>{{ user.DisplayName }}</span>
+    <br />
+    <span><b>Email: </b>{{ user.Email }}</span>
+    <br />
+    <span><b>Role: </b>Buyer</span>
+    <br />
+    <span><b>Date Register: </b>{{user.DateRegister | date:'medium'}}</span>
+    <br />
+    <p><b>Comments about me: </b></p>
+    <div ng-repeat="comment in user.Comments"></div>
+    <span><b>Author: </b>{{comment.Owner.DisplayName}}<br />
+    </span>
+    <span><b>Text: </b>{{comment.Text}}<br />
+    </span>
+    <span><b>Date Added: </b>{{comment.DateCreation | date:'medium'}}</span>
+</div>

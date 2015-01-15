@@ -1,0 +1,19 @@
+﻿<div ng-controller="detailsProductCtrl">
+    <h3>Details product:</h3>
+    <span><b>Seller: </b><a>{{product.Owner.DisplayName}}</a></span>
+    <br />
+    <span><b>Title: </b>{{product.Title}}</span>
+    <br />
+    <span><b>Price: </b>{{product.Price}}</span>
+    <br />
+    <span><b>Description: </b>{{product.Description}}</span>
+    <br />
+    <span><b>Date Added: </b>{{product.DateAdded | date:'medium'}}</span>
+    <br />
+    <h3>Comments:</h3>
+    <div id="viewComment" ng-repeat="comment in product.Comments">
+        <b>Author: </b><a>{{comment.Owner.DisplayName}}</a><br />
+        <b>Text: </b>{{comment.Text}}<br />
+        <b>Date Added: </b>{{comment.DateCreation | date:'medium'}}
+    </div>
+</div>

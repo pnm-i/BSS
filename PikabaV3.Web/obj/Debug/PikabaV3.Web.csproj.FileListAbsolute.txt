@@ -1,0 +1,28 @@
+C:\Users\Ivan\Desktop\PikabaV3\PikabaV3.Web\bin\PikabaV3.Web.dll
+C:\Users\Ivan\Desktop\PikabaV3\PikabaV3.Web\bin\PikabaV3.Web.pdb
+C:\Users\Ivan\Desktop\PikabaV3\PikabaV3.Web\obj\Debug\PikabaV3.Web.dll
+C:\Users\Ivan\Desktop\PikabaV3\PikabaV3.Web\obj\Debug\PikabaV3.Web.pdb
+C:\Users\Ivan\Desktop\PikabaV3\PikabaV3.Web\obj\Debug\PikabaV3.Web.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\Pikaba\PikabaV3\PikabaV3.Web\bin\PikabaV3.Web.dll
+C:\Users\Ivan\Desktop\Pikaba\PikabaV3\PikabaV3.Web\bin\PikabaV3.Web.pdb
+C:\Users\Ivan\Desktop\Pikaba\PikabaV3\PikabaV3.Web\obj\Debug\PikabaV3.Web.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\Pikaba\PikabaV3\PikabaV3.Web\obj\Debug\PikabaV3.Web.dll
+C:\Users\Ivan\Desktop\Pikaba\PikabaV3\PikabaV3.Web\obj\Debug\PikabaV3.Web.pdb
+F:\Projects\TestTaskPikabaTeam\PikabaV3 curent\PikabaV3.Web\bin\PikabaV3.Web.dll
+F:\Projects\TestTaskPikabaTeam\PikabaV3 curent\PikabaV3.Web\bin\PikabaV3.Web.pdb
+F:\Projects\TestTaskPikabaTeam\PikabaV3 curent\PikabaV3.Web\obj\Debug\PikabaV3.Web.dll
+F:\Projects\TestTaskPikabaTeam\PikabaV3 curent\PikabaV3.Web\obj\Debug\PikabaV3.Web.pdb
+F:\Development\Projects\TestTaskPikabaTeam\PikabaV3 curent\PikabaV3.Web\bin\PikabaV3.Web.dll
+F:\Development\Projects\TestTaskPikabaTeam\PikabaV3 curent\PikabaV3.Web\bin\PikabaV3.Web.pdb
+F:\Development\Projects\TestTaskPikabaTeam\PikabaV3 curent\PikabaV3.Web\obj\Debug\PikabaV3.Web.dll
+F:\Development\Projects\TestTaskPikabaTeam\PikabaV3 curent\PikabaV3.Web\obj\Debug\PikabaV3.Web.pdb
+F:\Development\Projects\TestTaskPikabaTeam\PikabaV3 curent\PikabaV3.Web\obj\Debug\PikabaV3.Web.csprojResolveAssemblyReference.cache
+C:\Users\ponomarenko.i\Dropbox\PikabaV3 curent\PikabaV3.Web\bin\PikabaV3.Web.dll
+C:\Users\ponomarenko.i\Dropbox\PikabaV3 curent\PikabaV3.Web\bin\PikabaV3.Web.pdb
+C:\Users\ponomarenko.i\Dropbox\PikabaV3 curent\PikabaV3.Web\obj\Debug\PikabaV3.Web.csprojResolveAssemblyReference.cache
+C:\Users\ponomarenko.i\Dropbox\PikabaV3 curent\PikabaV3.Web\obj\Debug\PikabaV3.Web.dll
+C:\Users\ponomarenko.i\Dropbox\PikabaV3 curent\PikabaV3.Web\obj\Debug\PikabaV3.Web.pdb
+C:\Users\Ivan\Dropbox\PikabaV3 curent\PikabaV3.Web\bin\PikabaV3.Web.dll
+C:\Users\Ivan\Dropbox\PikabaV3 curent\PikabaV3.Web\bin\PikabaV3.Web.pdb
+C:\Users\Ivan\Dropbox\PikabaV3 curent\PikabaV3.Web\obj\Debug\PikabaV3.Web.dll
+C:\Users\Ivan\Dropbox\PikabaV3 curent\PikabaV3.Web\obj\Debug\PikabaV3.Web.pdb

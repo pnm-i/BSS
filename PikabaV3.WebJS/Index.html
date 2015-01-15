@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>PikabaV3</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <link href="content/Site.css" rel="stylesheet" />
+    <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="main">
+        <div id="header">
+            <div id="menu">
+                <div id="site-menu"></div>
+                <div id="user-header-menu"></div>
+            </div>
+        </div>
+
+        <div id="action">
+        </div>
+
+        <div id="footer"></div>
+    </div>
+
+    <!-- Temp -->
+    <div id="temp-cookie" style="margin-left: 10px;">
+        <a class="btn btn-xs btn-primary" id="set-cookie-seller">Set cookie seller</a>
+        <a class="btn btn-xs btn-success" id="set-cookie-buyer">Set cookie buyer</a>
+        <a class="btn btn-xs btn-warning" id="remove-cookie">Remove cookie</a><br />
+        <span>role: <span id="cookie-state-role"></span></span>
+        <br />
+        <span>uuid: <span id="cookie-state-uuid"></span></span>
+    </div>
+</body>
+<script src="scripts/global.js"></script>
+<script src="scripts/app-cookie.js"></script>
+<script src="scripts/app.js"></script>
+</html>
+
+
